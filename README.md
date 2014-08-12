@@ -1,4 +1,4 @@
-js-perf-tests
+Javascript Performence Tests
 =============
 
-javascript performence tests
+- [for (...) {}](http://jsperf.com/i-vs-i-jare)
