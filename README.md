@@ -5,3 +5,4 @@ Javascript Performence Tests
 - [Visitor](http://jsperf.com/visitor)
 - [Cache](http://jsperf.com/cache-in-loop/2)
 - [Enumerate Object Properties](http://jsperf.com/enumerate-object-properties-vs-array-items/4)
+- [apply arguments](http://jsperf.com/calling-function-vs-apply-with-arguments/4)
