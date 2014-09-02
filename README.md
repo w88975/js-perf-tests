@@ -8,6 +8,6 @@ Javascript Performence Tests
 - [apply arguments](http://jsperf.com/calling-function-vs-apply-with-arguments/4)
 - [init primitive object: (new Object() vs {})](http://jsperf.com/new-object/2/)
 - [get value from object: (new Object() vs {})](http://jsperf.com/get-value-from-object-vs-hashtable): not stable, seems almost no any difference.
-- [flag operation](http://jsperf.com/flag-op): no difference
+- [flag operation](http://jsperf.com/flag-op): no difference, but !! faster in IE
 - 
 
