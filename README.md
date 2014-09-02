@@ -9,4 +9,4 @@ Javascript Performence Tests
 - [init primitive object: (new Object() vs {})](http://jsperf.com/new-object/2/)
 - [get value from object: (new Object() vs {})](http://jsperf.com/get-value-from-object-vs-hashtable): not stable, seems almost no any difference.
 - [flag operation](http://jsperf.com/flag-op): no difference, but !! and ! faster in IE 
-
+- [check reference nil vs check another flag](http://jsperf.com/nullable): check flag is faster
