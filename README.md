@@ -10,3 +10,7 @@ Javascript Performence Tests
 - [get value from object: (new Object() vs {})](http://jsperf.com/get-value-from-object-vs-hashtable): not stable, seems almost no any difference.
 - [flag operation](http://jsperf.com/flag-op): no difference, but !! and ! faster in IE 11
 - [check reference nil vs check another flag](http://jsperf.com/nullable): check flag is faster
+
+TODO：
+-------------
+- test callback declaration, should we need to assign null property in prototype ?
