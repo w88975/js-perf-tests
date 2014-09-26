@@ -3,7 +3,7 @@ Javascript Performence Tests
 
 - [for (...) {}](http://jsperf.com/i-vs-i-jare)
 - [array copy](http://jsperf.com/copy-loop-vs-array-slice/13): new Array(len) and copy in loop is fastest
-- [Visitor](http://jsperf.com/visitor)
+- [Visitor](http://jsperf.com/visitor)(eval seems no performence degradation)
 - [Cache](http://jsperf.com/cache-in-loop/3): no difference, but cached faster in IE 11 (except array item cache)
 - [Enumerate Object Properties](http://jsperf.com/enumerate-object-properties-vs-array-items/4)
 - [apply arguments](http://jsperf.com/calling-function-vs-apply-with-arguments/5)
